@@ -11,7 +11,7 @@ import CoreData
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
+let appDelegate = UIApplication.shared
     var window: UIWindow?
 
 
